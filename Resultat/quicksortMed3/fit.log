@@ -1,0 +1,151 @@
+
+
+*******************************************************************************
+Tue May 11 13:49:50 2021
+
+
+FIT:    data read from 'quicksortMed3.data' using 1:2:3
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = a*x**2 + b*x + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.6301954641e+27   0.00e+00  7.37e+12    1.000000e+00   1.000000e+00   1.000000e+00
+  14 1.2515952122e+00  -1.53e-03  7.37e-02    4.400785e-13   5.830062e-07   7.064239e-05
+
+After 14 iterations the fit converged.
+final sum of squares of residuals : 1.2516
+rel. change during last iteration : -1.53467e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.422847
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.178799
+p-value of the Chisq distribution (FIT_P)              : 0.98969
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 4.40078e-13      +/- 6.725e-14    (15.28%)
+b               = 5.83006e-07      +/- 1.406e-08    (2.411%)
+c               = 7.06424e-05      +/- 0.0004547    (643.7%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -0.980  1.000 
+c               0.726 -0.816  1.000 
+
+
+*******************************************************************************
+Tue May 11 13:51:05 2021
+
+
+FIT:    data read from 'quicksortMed3.data' using 1:2:3
+        format = x:z:s
+        x range restricted to [10000.0 : 220000.]
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = a*x**2 + b*x + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.1101839850e+04   0.00e+00  4.38e+01    4.400785e-13   5.830062e-07   7.064239e-05
+   6 1.7124243895e+00  -1.07e-04  4.38e-05    2.834535e-13   3.488363e-07  -1.678655e-05
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.71242
+rel. change during last iteration : -1.07484e-09
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.494603
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.244632
+p-value of the Chisq distribution (FIT_P)              : 0.974033
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.83453e-13      +/- 4.249e-14    (14.99%)
+b               = 3.48836e-07      +/- 9.328e-09    (2.674%)
+c               = -1.67865e-05     +/- 0.000371     (2210%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -0.975  1.000 
+c               0.867 -0.936  1.000 
+
+
+*******************************************************************************
+Tue May 11 13:51:32 2021
+
+
+FIT:    data read from 'quicksortMed3.data' using 1:2:3
+        format = x:z:s
+        x range restricted to [10000.0 : 220000.]
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = a*x**2 + b*x + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 5.4357888883e+01   0.00e+00  3.59e+01    2.834535e-13   3.488363e-07  -1.678655e-05
+   7 4.8268419702e+00  -6.28e-06  3.59e-06    6.906206e-14   4.054239e-07  -1.777063e-03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 4.82684
+rel. change during last iteration : -6.28094e-11
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.830391
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.689549
+p-value of the Chisq distribution (FIT_P)              : 0.681085
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 6.90621e-14      +/- 6.561e-14    (95.01%)
+b               = 4.05424e-07      +/- 1.483e-08    (3.658%)
+c               = -0.00177706      +/- 0.0007144    (40.2%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -0.976  1.000 
+c               0.872 -0.946  1.000 
+
+
+*******************************************************************************
+Tue May 11 13:52:06 2021
+
+
+FIT:    data read from 'quicksortMed3.data' using 1:2:3
+        format = x:z:s
+        x range restricted to [10000.0 : 220000.]
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = a*x**2 + b*x + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.2573207015e+06   0.00e+00  2.23e+02    6.906206e-14   4.054239e-07  -1.777063e-03
+   5 7.8103342461e+00  -3.86e-01  2.23e-03    2.433254e-16   2.750239e-08   8.516231e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.81033
+rel. change during last iteration : -3.86407e-06
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.0563
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.11576
+p-value of the Chisq distribution (FIT_P)              : 0.349615
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.43325e-16      +/- 2.621e-14    (1.077e+04%)
+b               = 2.75024e-08      +/- 4.551e-09    (16.55%)
+c               = 8.51623e-05      +/- 0.0001364    (160.2%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -0.988  1.000 
+c               0.843 -0.904  1.000 
